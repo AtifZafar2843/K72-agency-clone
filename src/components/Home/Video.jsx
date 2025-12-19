@@ -1,4 +1,4 @@
-import video from "../../assets/video.mp4";
+import video from "../../../public/videos/video.mp4"
 
 const Video = () => {
   return (
